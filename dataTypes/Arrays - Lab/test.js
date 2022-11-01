@@ -1,0 +1,1 @@
+reactDom.render(myDiv ,document.getElementById('app'));
